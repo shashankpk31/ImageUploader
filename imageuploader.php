@@ -15,7 +15,7 @@ include("Connection.php");
 <body>
 
   <div class="head">
-  <h1>Resume Buider For us</h1>
+  <h1>Image Uploader For us</h1>
   </div>
   <div class="container">
     <form method="POST" enctype="multipart/form-data">
